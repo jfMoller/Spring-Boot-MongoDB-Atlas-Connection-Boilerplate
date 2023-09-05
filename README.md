@@ -30,7 +30,6 @@ This project provides a backend for setting up a connection to MongoDB Atlas wit
       - Pick Drivers
       - Pick the Java driver
       - Copy the provided connection string
-      - 
 
 5. **Configure your application.properties file**
 
